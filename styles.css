@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-body {
+.container{
     font-family: Arial, sans-serif;
     margin: 0;
 }
@@ -10,6 +10,7 @@ body {
 }
 
 ul {
+	display:flex;
     list-style: none;
     padding: 0;
     margin: 0;
